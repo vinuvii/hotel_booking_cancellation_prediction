@@ -35,5 +35,3 @@ The SHAP analysis reveals which factors most significantly impact booking outcom
 - **Improve Resource Planning**: Anticipate no-shows for better staffing
 - **Enhance Customer Targeting**: Focus retention efforts on high-risk segments
 - **Develop Intervention Programs**: Proactive measures for at-risk bookings
-
-ng hotel booking data into actionable business intelligence* 🏨📊
